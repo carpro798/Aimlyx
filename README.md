@@ -1,27 +1,60 @@
 # 🚀 Aimlyx - Advanced Computer Vision Tracking Software
 
-Aimlyx is a high-performance, intelligent tracking utility built with **Python**, **PyQt6**, and powered by the cutting-edge **YOLOv8** object detection engine. Designed with a sleek Cyberpunk Neon layout, it offers lightweight, real-time visual automation with unmatched accuracy.
+<p align="center">
+  <strong>Developed with passion by carpro</strong>
+</p>
 
 ---
 
-## ✨ Key Features
+## 📌 Overview
 
-*   **Intelligent YOLOv8 Backend:** Real-time object and entity tracking using optimized models (supporting Nano up to X-Large architectures).
-*   **Humanized Aim Algorithms:** Advanced target smoothing adjustments and Y-axis aim offsets to mimic organic and natural human movements.
-*   **Custom Profile Management:** Save, load, and manage customized configuration presets seamlessly inside the UI.
-*   **Visual Debugging:** Optional on-screen debugging annotations to display detection bounding boxes and field-of-view (FOV) sliders in real-time.
+**Aimlyx** is a high-performance, real-time object tracking and visual automation utility. Unlike traditional pixel-color detection software, Aimlyx leverages the power of **YOLOv8 (You Only Look Once)** deep learning models running on a specialized local backend. 
 
----
+Designed for scalability and efficiency, the application features a stunning, fully-customized **Cyberpunk Neon** user interface built with **PyQt6** and designed to load seamlessly on modern Windows and Linux environments. 
 
-## 📥 How to Access Aimlyx
-
-> ⚠️ **Notice:** This repository functions strictly as the public landing page and documentation hub for Aimlyx. The actual software distribution and verified license keys are managed securely through our official community channel.
-
-To download the latest unified build (featuring both Free and PRO functionalities), join our Discord community:
-
-🔗 **[Join the Official Discord Server to Download Now]**
+Our architecture utilizes a **Unified Build System**. This means that both Free and PRO functionalities are packed into a single, optimized executable. There is no need to download different files; premium features are unlocked instantly in real-time the moment a valid license key is verified.
 
 ---
 
-### 🛡️ False Positives Notice
-Due to the compilation process and the internal mouse-hooking libraries required for real-time tracking, some antivirus solutions or Windows Defender may flag the application as a false positive. Rest assured, the software is secure. You might need to add the executable to your antivirus exclusions list to run it properly.
+## ✨ Core Features & Technical Highlights
+
+### 🧠 1. Real-Time YOLOv8 Detection
+*   **Multiple Model Architectures:** Native support for YOLOv8 pre-trained weights (Nano, Small, Medium, Large, and X-Large) depending on your hardware limits.
+*   **Intelligent Target Selection:** Advanced targeting logic to lock onto custom bounding boxes with configurable options for specific entity parts (Center, Head, or Chest).
+*   **Relative First-Person Tracking:** Designed specifically to work smoothly under standard 3D perspective environments.
+
+### ⚙️ 2. Advanced Customization & Humanization
+*   **Custom Smoothing Factor:** Fine-tune the target tracking speed to blend organic mouse movements with computer-guided tracking.
+*   **Y-Axis Aim Offset:** Calibrate your target offset heights to compensate for different model sizes and camera angles.
+*   **Custom Profiles Manager:** Save, load, and switch between your custom configurations on the fly without having to reset your tracking settings.
+
+### 🎨 3. Cyberpunk Neon UI
+*   A state-of-the-art dark theme graphical user interface optimized for high frame rates, complete with active FOV overlay drawing tools and debugging annotations.
+
+---
+
+## 📥 How to Download & Run Aimlyx
+
+> ⚠️ **IMPORTANT NOTICE:** This GitHub repository serves strictly as the public landing page, feature documentation, and support hub. To protect intellectual property, the source code is kept in a private repository, and all downloads are managed through our community.
+
+To download the latest official release and obtain your access key, follow these steps:
+
+1.  **Join the Community:** Click the link below to enter our official Discord server.
+    👉 **[Join the Aimlyx Discord Server (Code: QZPxFV5839)](https://discord.gg/QZPxFV5839)** 👈
+2.  **Get Your Key:** Standard features are free! If you want to unlock advanced humanization and profile saving, grab a custom license key inside the server.
+3.  **Run the Software:** Download the unified executable from our `#🚀│releases` channel, load your settings, and enjoy!
+
+---
+
+## 🛡️ False Positives & Security Notice
+
+Because Aimlyx uses low-level Windows API hooking libraries to manage humanized mouse movements, some antivirus programs and **Windows Defender** may flag the compiled executable as a false positive. 
+
+*   **Is it safe?** Yes, 100%. The software contains no malicious code.
+*   **How to solve this?** You must add the executable file or its containing folder to your antivirus exclusions list to prevent Windows from blocking or deleting it. 💀
+
+---
+
+<p align="center">
+  <sub>Project maintained by <strong>carpro</strong>. Built with Python, YOLOv8, and PyQt6.</sub>
+</p>
