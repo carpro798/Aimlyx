@@ -10,7 +10,7 @@
 
 **Aimlyx** is a high-performance, real-time object tracking and visual automation utility. Unlike traditional pixel-color detection software, Aimlyx leverages the power of **YOLOv8 (You Only Look Once)** deep learning models running on a specialized local backend. 
 
-Designed for scalability and efficiency, the application features a stunning, fully-customized user interface built with **PyQt6** and designed to load seamlessly on modern Windows and Linux environments. 
+Designed for scalability and efficiency, the application features a stunning, fully-customized **Cyberpunk Neon** user interface built with **PyQt6** and designed to load seamlessly on modern Windows and Linux environments. 
 
 Our architecture utilizes a **Unified Build System**. This means that both Free and PRO functionalities are packed into a single, optimized executable. There is no need to download different files; premium features are unlocked instantly in real-time the moment a valid license key is verified.
 
@@ -40,9 +40,16 @@ Our architecture utilizes a **Unified Build System**. This means that both Free 
 To download the latest official release and obtain your access key, follow these steps:
 
 1.  **Join the Community:** Click the link below to enter our official Discord server.
-    👉 **[Join the Aimlyx Discord Server](https://discord.gg/QZPxFV5839)** 👈
+    👉 **[Join the Aimlyx Discord Server (Code: QZPxFV5839)](https://discord.gg/QZPxFV5839)** 👈
 2.  **Get Your Key:** Standard features are free! If you want to unlock advanced humanization and profile saving, grab a custom license key inside the server.
-3.  **Run the Software:** Download the unified executable from our `#🚀│releases` channel, load your settings, and enjoy!
+3.  **Run the Software:** Download the unified executable, load your settings, and enjoy!
+
+### 💿 Direct Executable Download
+If you already have a license key or just want to download the application directly, you can grab the compiled binary here:
+
+🔗 **[Download Aimlyx.exe (Direct Link)](INSERT_YOUR_DIRECT_DOWNLOAD_LINK_HERE)**
+
+*Note: Remember to check the antivirus notice below before running the executable.* 😩
 
 ---
 
@@ -51,7 +58,12 @@ To download the latest official release and obtain your access key, follow these
 Because Aimlyx uses low-level Windows API hooking libraries to manage humanized mouse movements, some antivirus programs and **Windows Defender** may flag the compiled executable as a false positive. 
 
 *   **Is it safe?** Yes, 100%. The software contains no malicious code.
-*   **How to solve this?** You must add the executable file or its containing folder to your antivirus exclusions list to prevent Windows from blocking or deleting it. 
+*   **How to solve this?** You must add the executable file or its containing folder to your antivirus exclusions list to prevent Windows from blocking or deleting it. 💀
+
+---
+
+## ⚖️ Legal Disclaimer
+Aimlyx is developed strictly for educational, research, and computer vision testing purposes. The developer (**carpro**) holds absolutely no responsibility for any misuse, account bans, or potential system damages caused by the execution of this software. Use it entirely at your own risk. 💀
 
 ---
 
