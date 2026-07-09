@@ -10,7 +10,7 @@
 
 **Aimlyx** is a high-performance, real-time object tracking and visual automation utility. Unlike traditional pixel-color detection software, Aimlyx leverages the power of **YOLOv8 (You Only Look Once)** deep learning models running on a specialized local backend. 
 
-Designed for scalability and efficiency, the application features a stunning, fully-customized **Cyberpunk Neon** user interface built with **PyQt6** and designed to load seamlessly on modern Windows and Linux environments. 
+Designed for scalability and efficiency, the application features a stunning, fully-customized user interface built with **PyQt6** and designed to load seamlessly on modern Windows and Linux environments. 
 
 Our architecture utilizes a **Unified Build System**. This means that both Free and PRO functionalities are packed into a single, optimized executable. There is no need to download different files; premium features are unlocked instantly in real-time the moment a valid license key is verified.
 
