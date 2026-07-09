@@ -10,7 +10,7 @@
 
 **Aimlyx** is a high-performance, real-time object tracking and visual automation utility. Unlike traditional pixel-color detection software, Aimlyx leverages the power of **YOLOv8 (You Only Look Once)** deep learning models running on a specialized local backend. 
 
-Designed for scalability and efficiency, the application features a stunning, fully-customized **Cyberpunk Neon** user interface built with **PyQt6** and designed to load seamlessly on modern Windows and Linux environments. 
+Designed for scalability and efficiency, the application features a stunning, fully-customized user interface built with **PyQt6** and designed to load seamlessly on modern Windows and Linux environments. 
 
 Our architecture utilizes a **Unified Build System**. This means that both Free and PRO functionalities are packed into a single, optimized executable. There is no need to download different files; premium features are unlocked instantly in real-time the moment a valid license key is verified.
 
@@ -49,7 +49,7 @@ If you already have a license key or just want to download the application direc
 
 🔗 **[Download Aimlyx.exe (Direct Link)](INSERT_YOUR_DIRECT_DOWNLOAD_LINK_HERE)**
 
-*Note: Remember to check the antivirus notice below before running the executable.* 😩
+*Note: Remember to check the antivirus notice below before running the executable.* 
 
 ---
 
@@ -63,7 +63,7 @@ Because Aimlyx uses low-level Windows API hooking libraries to manage humanized 
 ---
 
 ## ⚖️ Legal Disclaimer
-Aimlyx is developed strictly for educational, research, and computer vision testing purposes. The developer (**carpro**) holds absolutely no responsibility for any misuse, account bans, or potential system damages caused by the execution of this software. Use it entirely at your own risk. 💀
+Aimlyx is developed strictly for educational, research, and computer vision testing purposes. The developer (**carpro**) holds absolutely no responsibility for any misuse, account bans, or potential system damages caused by the execution of this software. Use it entirely at your own risk.
 
 ---
 
